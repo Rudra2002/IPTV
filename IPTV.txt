@@ -219,11 +219,13 @@ http://ok2.se:8000/superman/12345/210
 http://ok2.se:8000/superman/12345/204
 #EXTINF:0 tvg-id="ext" group-title="Undefined", SKY SPORTS MAIN EVENT(2)
 http://66.northerniptv.ca:8000/tommy2/123456/204
-
+#EXTINF:0 tvg-id="ext" group-title="AMR BD LIVE",Star Sports 2 HD Main
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS 1 HD
 http://ok2.se:8000/superman/12345/225
 #EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS 1 HD(2)
 http://f.ok2.se:8000/joseph01/joseph02/225
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS 2 HD
 http://ok2.se:8000/superman/12345/226
 #EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS 2 HD(2)
@@ -247,5 +249,9 @@ http://seeyoutv.net:2300/parigi/parigi/10398
 http://66.northerniptv.ca:8000/tommy2/123456/208
 #EXTINF:0 tvg-id="ext" group-title="Undefined", SKY SPORTS PREMIER LEAGUE
 http://66.northerniptv.ca:8000/live/george/george123/208.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIE BAZAR TV",MB_Sky Net Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIE BAZAR TV",MB_Star Gold 2
+http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MOVIE BAZAR TV",MB_Sky Net Sports 1
 http://45.249.187.238:8081/hls/new1.m3u8
