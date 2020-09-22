@@ -209,3 +209,41 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/79.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="MUSIC",9x Jalwa
 http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com SKY SPORTS CRICKET
+http://ok2.se:8000/superman/12345/205
+#EXTINF:0 tvg-id="ext" group-title="Undefined",alliptvlinks.com SKY SPORTS CRICKET(2)
+http://66.northerniptv.ca:8000/tommy2/123456/205
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com SKY SPORTS F1 HD
+http://ok2.se:8000/superman/12345/210
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com SKY SPORTS MAIN EVENT
+http://ok2.se:8000/superman/12345/204
+#EXTINF:0 tvg-id="ext" group-title="Undefined",alliptvlinks.com SKY SPORTS MAIN EVENT(2)
+http://66.northerniptv.ca:8000/tommy2/123456/204
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com BT SPORTS 1 HD
+http://ok2.se:8000/superman/12345/225
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com BT SPORTS 1 HD(2)
+http://f.ok2.se:8000/joseph01/joseph02/225
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com BT SPORTS 2 HD
+http://ok2.se:8000/superman/12345/226
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com BT SPORTS 2 HD(2)
+http://f.ok2.se:8000/joseph01/joseph02/226
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com BT SPORTS 3 HD
+http://ok2.se:8000/superman/12345/232
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com BT SPORTS 3 HD(3)
+http://f.ok2.se:8000/joseph01/joseph02/232
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com BT SPORTS ESPN
+http://ok2.se:8000/superman/12345/233
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com BT SPORTS ESPN(2)
+http://f.ok2.se:8000/joseph01/joseph02/233
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",alliptvlinks.com SKY SPORT FOOTBALL FULL HD
+http://seeyoutv.net:2300/parigi/parigi/10400
+#EXTINF:0 tvg-id="ext" group-title="Undefined",alliptvlinks.com SKY SPORT FOOTBALL HD
+http://seeyoutv.net:2300/parigi/parigi/10399
+#EXTINF:0 tvg-id="ext" group-title="Undefined",alliptvlinks.com SKY SPORT FOOTBALL SD
+http://seeyoutv.net:2300/parigi/parigi/10398
+#EXTINF:0 tvg-id="ext" group-title="Undefined",alliptvlinks.com SKY SPORTS PREMIER LEAGUE
+http://66.northerniptv.ca:8000/tommy2/123456/208
+#EXTINF:0 tvg-id="ext" group-title="Undefined",alliptvlinks.com SKY SPORTS PREMIER LEAGUE
+http://66.northerniptv.ca:8000/live/george/george123/208.m3u8
