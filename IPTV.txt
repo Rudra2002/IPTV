@@ -145,3 +145,31 @@ http://103.49.168.172:8081/ebox/in_sat_max/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="KIDS",Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="IND. MOVIES",Zee Cinema HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zcinemahd/index.m3u8 
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TVs",1_Zee tv
+http://45.249.187.238:8081/hls/tsl-1.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TVs",1_Mastii Music
+http://45.249.187.238:8081/hls/new12.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TVs",1_9XM
+http://45.249.187.238:8081/hls/new23.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/802xnx0dlm9pznb/amrbd.png" group-title="BDIX TVs",3_Music Mastii
+http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g7xebew4gotro8j/EB.png" group-title="BDIX TVs",2_BBC World
+http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="NEWS",CNN
+http://203.162.235.41:16918
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS",BBC News
+http://203.162.235.41:16917
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC",Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="MUSIC",Zee ETC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9xM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XooMA08.jpg" group-title="MUSIC",B4U Music
+http://iptv.kitv.live:1935/live/Shari/MTV-P/79.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="MUSIC",Zing
+http://iptv.kitv.live:1935/live/Shari/MTV-P/81.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="MUSIC",9x Jalwa
+http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
