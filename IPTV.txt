@@ -247,3 +247,5 @@ http://seeyoutv.net:2300/parigi/parigi/10398
 http://66.northerniptv.ca:8000/tommy2/123456/208
 #EXTINF:0 tvg-id="ext" group-title="Undefined",alliptvlinks.com SKY SPORTS PREMIER LEAGUE
 http://66.northerniptv.ca:8000/live/george/george123/208.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVIE BAZAR TV",MB_Sky Net Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
