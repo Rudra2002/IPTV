@@ -241,9 +241,6 @@ http://f.ok2.se:8000/joseph01/joseph02/232
 http://ok2.se:8000/superman/12345/233
 #EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS ESPN(2)
 http://f.ok2.se:8000/joseph01/joseph02/233
-
-#EXTINF:0 tvg-id="ext" group-title="Undefined",SKY SPORT FOOTBALL FULL HD
-http://seeyoutv.net:2300/parigi/parigi/10400
 #EXTINF:0 tvg-id="ext" group-title="Undefined",SKY SPORT FOOTBALL HD
 http://seeyoutv.net:2300/parigi/parigi/10399
 #EXTINF:0 tvg-id="ext" group-title="Undefined",SKY SPORT FOOTBALL SD
