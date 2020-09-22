@@ -1,6 +1,8 @@
 # IPTV
 IPTV link from bangladesh
 sources
+https://github.com/apurbo26/iptv/blob/master/jago%20tv.m3u
+
 #EXTM3U
 #EXTINF:-1,Anando TV
 http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
