@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,Zee TV
+http://otv.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-1,Zee Max
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1,Sony TV
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+#EXTINF:-1,HBO
+http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1,Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+#EXTINF:-1,Dipto TV
+http://otv.ftpbd.net/streams/103/index.m3u8
+#EXTINF:-1,Gazi TV
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1,Bangla Vision
+http://otv.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1,Chanael 9
+http://otv.ftpbd.net/streams/102/index.m3u8
+#EXTINF:-1,Anando TV
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+#EXTINF:-1,Asian TV
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+#EXTINF:-1,DBC News
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
+#EXTINF:-1,Ekattor
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+#EXTINF:-1,Gaan Bangla
+http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
+#EXTINF:-1,MY TV
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+#EXTINF:-1,RTV
+http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+#EXTINF:-1,Star Sports HD
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1,Star Select HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1,Star Sports 1
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1,Sony Ten 1
+http://otv.ftpbd.net/streams/105/index.m3u8
+#EXTINF:-1,Sony Ten 2
+http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1,Sony Six
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1,National Geography HD
+http://otv.ftpbd.net/streams/110/index.m3u8
