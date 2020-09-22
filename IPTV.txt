@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA ENT.",Zee Bangla HD [IN] (1)
-http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ENT.",Zee Bangla SD [IN] (1)
+http://103.205.133.50/hls/zeebangla.m3u8
 http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1,Zee Max
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1,Sony TV
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
-#EXTINF:-1,HBO
-http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="WORLD MOVIES",HBO India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
 #EXTINF:-1,Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 #EXTINF:-1,Dipto TV
