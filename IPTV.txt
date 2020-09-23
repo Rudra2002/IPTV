@@ -1,7 +1,5 @@
 
 
-
-
 #EXTINF:-1 tvg-logo="https://ibb.co/m9xKv2W" group-title="Bangla News",Anando TV
 http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/L8LWmFr" group-title="Bangla News",Asian TV
