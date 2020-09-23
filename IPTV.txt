@@ -259,6 +259,9 @@ http://45.249.187.238:8081/hls/new1.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 #EXTINF:0 tvg-id="BBCNews.nws" group-title="United Kingdom",BBC News
 http://51.52.156.22:8888/http/004
+#EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com IN: STAR BHARAT HD
+http://migliore.noip.website:8080/lBzJ0X5VU3/LQFWneETIZ/164812
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com VIP IN: STAR BHARAT
 http://pro-panel01.club:8080/benny/benny/34154
 #EXTINF:0 tvg-id="ext" group-title="Channels",alliptvlinks.com VIP IN: STAR BHARAT APAC
