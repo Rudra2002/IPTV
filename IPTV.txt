@@ -258,7 +258,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="KIDS",Disney
+http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="KIDS",Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
