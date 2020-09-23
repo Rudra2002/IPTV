@@ -93,10 +93,7 @@ http://51.52.156.22:8888/http/004
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA ent.",Zee Bangla HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA ent.",Zee Bangla SD
-http://otv.ftpbd.net/streams/107/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ent.",Zee Bangla SD (2)
-http://103.205.133.50/hls/zeebangla.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ent.",Zee Bangla SD 
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ent.",Sony Aath  [IN] (2)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
@@ -154,10 +151,10 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g7xebew4gotro8j/EB.png" group-title="Movies",Movies Now (2)
 http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8
-
-
-
-
+#EXTINF:-1  group-title="Movies",UTV action
+http://45.249.187.238:8081/hls/tsl-7.m3u8
+#EXTINF:-1  group-title="Movies",Star Movies
+http://45.249.187.238:8081/hls/hdmi1.m3u8
 
 
 
@@ -173,7 +170,7 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD 
-http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORTS",alliptvlinks.com STAR SPORTS HINDI
 http://f.ok2.se:8000/joseph01/joseph02/201
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 1 HD
