@@ -93,6 +93,8 @@ http://51.52.156.22:8888/http/004
 http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ent.",Zee Bangla SD 
 http://103.205.133.50/hls/zeebangla.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ent.",Zee Bangla SD (2)
+http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ent.",Sony Aath  [IN] (2)
 http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA ent.",Zee Bangla Cinema [IN]
