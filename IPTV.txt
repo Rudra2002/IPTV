@@ -143,7 +143,7 @@ http://pro-panel01.club:8080/benny/benny/34510
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movies",HBO
 http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="Movies",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
@@ -156,7 +156,7 @@ http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8
 #EXTINF:-1  group-title="Movies",UTV action
 http://45.249.187.238:8081/hls/tsl-7.m3u8
 #EXTINF:-1  group-title="Movies",Star Movies
-http://45.249.187.238:8081/hls/hdmi1.m3u8
+http://45.249.187.238:8081/hls/tsl-8.m3u8
 
 
 
